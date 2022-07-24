@@ -1,3 +1,3 @@
-export default function Home({ title = "Hello World!" }) {
-  return <h1>{title}</h1>;
+export default function Home({ title = 'Hello World!' }) {
+  return <h1>{title}</h1>
 }
